@@ -1,0 +1,153 @@
+[
+  {
+    "ProductName": "This Is Fine Doggoe Meme Socks",
+    "GraphicName": "thisisfinedoggomemesocks.PNG",
+    "CostPrice": 15.00,
+    "MRSP": 22.32,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 30,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "SPARKYDESIGN"
+  },
+  {
+    "ProductName": "Meme Cats Socks",
+    "GraphicName": "memecatssocks.PNG",
+    "CostPrice": 8.00,
+    "MRSP": 15.32,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 30,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "SPARKYDESIGN"
+  },
+  {
+    "ProductName": "Doge Wow Such Thug Socks",
+    "GraphicName": "dogewowsuchthugsocks.PNG",
+    "CostPrice": 8.00,
+    "MRSP": 20.76,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 15,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "SPARKYDESIGN"
+  },
+  {
+    "ProductName": "Kirby Knife Socks",
+    "GraphicName": "kirbyknifesocks.PNG",
+    "CostPrice": 10.00,
+    "MRSP": 23.51,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 15,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "SPARKYDESIGN"
+  },
+  {
+    "ProductName": "Cockatiels Galore Socks",
+    "GraphicName": "cockatielsgaloresocks.PNG",
+    "CostPrice": 11.00,
+    "MRSP": 22.10,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 10,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "SPARKYDESIGN"
+  },
+  {
+   "ProductName": "Surprised Patick Socks",
+   "GraphicName": "surprisedpatricksocks.PNG",
+   "CostPrice": 11.00,
+   "MRSP": 22.10,
+   "QtyOnHand": 20,
+   "QtyOnBackOrder": 10,
+   "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+   "Brand": "SODAPOPDESIGN"
+  },
+  {
+      "ProductName": "Gunter Pattern Socks",
+      "GraphicName": "gunterpatternsocks.PNG",
+      "CostPrice": 11.00,
+      "MRSP": 21.22,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 10,
+      "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+      "Brand": "SODAPOPDESIGN"
+  },
+  {
+      "ProductName": "Steven Universe Socks",
+      "GraphicName": "stevenuniversesocks.PNG",
+      "CostPrice": 11.00,
+      "MRSP": 21.22,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 10,
+      "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+      "Brand": "SODAPOPDESIGN"
+  },
+  {
+      "ProductName": "Rick and Morty Retro Socks",
+      "GraphicName": "rickandmortyretrosocks.PNG",
+      "CostPrice": 11.00,
+      "MRSP": 21.22,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 10,
+      "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+      "Brand": "SODAPOPDESIGN"
+  },
+  {
+      "ProductName": "The Fairly OddParents Socks",
+      "GraphicName": "fairlyoddparentssocks.PNG",
+      "CostPrice": 11.00,
+      "MRSP": 21.22,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 30,
+      "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+      "Brand": "SODAPOPDESIGN"
+  },
+  {
+      "ProductName": "Suspicious Cats Socks",
+      "GraphicName": "suspiciouscatssocks.PNG",
+      "CostPrice": 11.00,
+      "MRSP": 21.22,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 30,
+      "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+      "Brand": "TOFUSANDESIGN"
+  },
+  {
+    "ProductName": "Cephalopod Socks",
+    "GraphicName": "cephalopodsocks.PNG",
+    "CostPrice": 11.00,
+    "MRSP": 21.22,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 30,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "TOFUSANDESIGN"
+  },
+  {
+    "ProductName": "Luminescent Rainbow Jellyfish Socks",
+    "GraphicName": "luminescentrainbowjellyfishsocks.PNG",
+    "CostPrice": 11.00,
+    "MRSP": 21.22,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 30,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "TOFUSANDESIGN"
+  },
+  {
+    "ProductName": "Sushi Cats Socks",
+    "GraphicName": "sushicatssocks.PNG",
+    "CostPrice": 11.00,
+    "MRSP": 21.22,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 30,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "TOFUSANDESIGN"
+  },
+  {
+    "ProductName": "Galaxy Socks",
+    "GraphicName": "galaxysocks.PNG",
+    "CostPrice": 11.00,
+    "MRSP": 21.22,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 30,
+    "Description": "Super soft and stretchy knit crew socks. Socks fit: men's US size 3.5-12, women's US size 5-14, UK size 4-11.5, EU size 36-46. Knit with reinforced toe and heel, with extra cushioning in the sole. 58% recycled polyester (made from recycled materials), 22% nylon, 15% cotton, 4% spandex, 1% rubber. Printed to allow ink to penetrate the yarn, so socks look great even when stretched. Machine washable",
+    "Brand": "TOFUSANDESIGN"
+  }
+]
+
