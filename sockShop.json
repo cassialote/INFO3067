@@ -41,7 +41,7 @@
   },
   {
     "ProductName": "Cockatiels Galore Socks",
-    "GraphicName": "cockatielsgaloresocks.PNG",
+    "GraphicName": "cockatiellsgaloresocks.PNG",
     "CostPrice": 11.00,
     "MSRP": 22.10,
     "QtyOnHand": 20,
@@ -80,18 +80,18 @@
     "Brand": "SODAPOPDESIGN"
   },
   {
-    "ProductName": "Rick and Morty Retro Socks",
-    "GraphicName": "rickandmortyretrosocks.PNG",
+    "ProductName": "Mr. Meeseeks Socks",
+    "GraphicName": "mrmeeseekssocks.png",
     "CostPrice": 11.00,
     "MSRP": 21.22,
     "QtyOnHand": 20,
     "QtyOnBackOrder": 10,
-    "Description": "Rick and Morty Retro Socks",
+    "Description": "Mr. Meeseeks Socks",
     "Brand": "SODAPOPDESIGN"
   },
   {
     "ProductName": "The Fairly OddParents Socks",
-    "GraphicName": "fairlyoddparentssocks.PNG",
+    "GraphicName": "cosmoandwandasocks.PNG",
     "CostPrice": 11.00,
     "MSRP": 21.22,
     "QtyOnHand": 20,
